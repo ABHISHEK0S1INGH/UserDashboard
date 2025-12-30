@@ -702,7 +702,7 @@ UserDashboard/
 
 **Regular User:**
 - Email: `user@example.com`
-- Password: `User123`
+- Password: `User123@`
 
 ---
 
