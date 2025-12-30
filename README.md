@@ -696,10 +696,8 @@ UserDashboard/
 
 ## 👥 Default Credentials
 
-After running `seed_users.py`:
-
 **Admin Account:**
-- Email: `admin@example.com`
+- Email: `admin@gmail.com`
 - Password: `Admin123`
 
 **Regular User:**
