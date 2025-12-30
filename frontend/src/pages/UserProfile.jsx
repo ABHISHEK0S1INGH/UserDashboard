@@ -53,7 +53,7 @@ const UserProfile = () => {
 
   const handleLogout = async () => {
     await authService.logout();
-    navigate('/login');
+    window.location.href = '/login';
   };
 
   const handleProfileChange = (e) => {

@@ -21,9 +21,9 @@ const Dashboard = () => {
     }
   }, [navigate]);
 
-  const handleLogout = () => {
-    authService.logout();
-    navigate('/login');
+  const handleLogout = async () => {
+    await authService.logout();
+    window.location.href = '/login';
   };
 
   const formatDate = (dateString) => {

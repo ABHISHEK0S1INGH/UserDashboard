@@ -50,7 +50,7 @@ const AdminDashboard = () => {
 
   const handleLogout = async () => {
     await authService.logout();
-    navigate('/login');
+    window.location.href = '/login';
   };
 
   const openConfirmDialog = (action, user) => {
