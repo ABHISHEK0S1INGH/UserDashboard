@@ -724,12 +724,6 @@ This project is created for demonstration purposes.
 
 ---
 
-## 📧 Contact
-
-For questions or support, please contact: Purple Merit Technologies
-
----
-
 ## 🎉 Live Demo
 
 - **Frontend**: https://user-dashboard-frontend-rho.vercel.app
