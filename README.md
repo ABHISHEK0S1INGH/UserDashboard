@@ -298,14 +298,6 @@ git push
 - **Local**: `http://localhost:8000/api`
 - **Production**: `https://userdashboard-backend-x12r.onrender.com/api`
 
-### 📮 Postman Collection
-Access the complete API collection in Postman:
-
-[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/join-team?invite_code=d4a845c81807d4e982cd3520fc72962df6dcdd4a602aff71c53bbd540f398ca7&target_code=86a4c654afdfe6e90ec5359ebd285a2e)
-
-**Or use this invite link:**  
-`https://app.getpostman.com/join-team?invite_code=d4a845c81807d4e982cd3520fc72962df6dcdd4a602aff71c53bbd540f398ca7&target_code=86a4c654afdfe6e90ec5359ebd285a2e`
-
 ---
 
 ### Authentication Endpoints
